@@ -1,1 +1,1 @@
-# Rock-or-mine-detection
+# Rock-or-mine-detection using machine learning
