@@ -4,7 +4,7 @@
 This project aims to classify sonar signals as either **rock** or **mine** using machine learning techniques. By analyzing sonar data, we train a model to distinguish between the two classes accurately.
 
 ## Dataset
-The dataset used for this project is the **Sonar Dataset** from the UCI Machine Learning Repository. It consists of 60 numerical features extracted from sonar signals, with labels indicating whether the object is a rock or a mine.
+The dataset used for this project is the **Sonar Dataset** from Kaggle. It consists of 60 numerical features extracted from sonar signals, with labels indicating whether the object is a rock or a mine.
 
 ## Features
 The dataset includes:
