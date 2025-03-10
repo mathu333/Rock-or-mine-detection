@@ -1,4 +1,3 @@
-# Rock-or-mine-detection using machine learning
 # Rock vs Mine Prediction using Machine Learning with Python
 
 ## Overview
