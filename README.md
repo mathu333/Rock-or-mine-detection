@@ -64,9 +64,6 @@ Ensure you have the following Python libraries installed:
 ## Contributing
 Feel free to fork this repository, submit issues, or open pull requests to improve the project.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - UCI Machine Learning Repository for the dataset.
 - Scikit-Learn and other open-source libraries.
